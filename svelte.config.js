@@ -10,7 +10,8 @@ const config = {
 	},
 	vitePlugin: {
 		dynamicCompileOptions: ({ filename }) => ({ runes: !filename.includes('node_modules') })
-	}
+	},
+	runes: false
 };
 
 export default config;

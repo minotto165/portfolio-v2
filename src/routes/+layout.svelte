@@ -1,6 +1,8 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
   	import "../app.css";
+	import "iconify-icon"
+
 	let { children } = $props();
 </script>
 
