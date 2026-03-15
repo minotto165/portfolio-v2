@@ -28,8 +28,8 @@
 </script>
 
 <div class="min-h-screen w-screen flex justify-center bg-linear-to-b from-[#00090C] to-[#001016] py-8 px-8 sm:py-12">
-  <div class="content w-xl 2xl:w-3xl flex flex-col gap-8 sm:gap-12">
-    <div class="relative rounded-2xl border-[#34454B80] border-2 overflow-hidden shadow-lg shadow-[#A7C9D410] h-50 sm:h-80">
+  <div class="content w-xl xl:w-3xl flex flex-col gap-8 sm:gap-12">
+    <div class="relative rounded-2xl border-[#34454B80] border-2 overflow-hidden shadow-lg shadow-[#A7C9D410] h-50 sm:h-60 xl:h-80">
       <img alt="banner" src="/banner.png" class="w-full h-full object-cover" />
       <div class="absolute inset-0 bg-linear-to-b from-[#00000020] to-[#00151d]"></div>
       <div class="absolute inset-0 flex justify-between items-end p-4 sm:p-6">
